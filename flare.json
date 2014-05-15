@@ -1,0 +1,273 @@
+{
+ "name": "Field Reporting Tool",
+ "children": [
+  {
+   "name": "Field Advisory Service",
+   "children": [
+    {
+     "name": "Field Visit/Call",
+     "children": [
+      {"name": "On-Site Visit?", "size": 3938},
+      {"name": "Type", "size": 3812},
+      {"name": "State/Region", "size": 6714},
+      {"name": "Township", "size": 743},
+      {"name": "Village Tract", "size": 3938},
+      {"name": "Village", "size": 3812},
+      {"name": "GPS", "size": 6714},
+      {"name": "Farmer Name", "size": 743},
+      {"name": "Contact Number", "size": 3938},
+      {"name": "Diseases", "size": 3812},
+      {"name": "Pests", "size": 6714},
+      {"name": "Soil Problems", "size": 743},   
+      {"name": "Techniques Promoted", "size": 743} 
+     ]
+    },
+    {
+     "name": "Group Event",
+     "children": [
+      {"name": "Event Type", "size": 3534},
+      {"name": "State/Region", "size": 6714},
+      {"name": "Township", "size": 743},
+      {"name": "Village Tract", "size": 3938},
+      {"name": "Village", "size": 3812},
+      {"name": "GPS", "size": 5731},
+      {"name": "Number of Attendeed", "size": 7840},
+      {"name": "Diseases", "size": 3812},
+      {"name": "Pests", "size": 6714},
+      {"name": "Soil Problems", "size": 743},   
+      {"name": "Techniques Promoted", "size": 743}  
+     ]
+    },
+    {
+     "name": "Farm Survey",
+     "children": [
+      {"name": "Farmer Name", "size": 7074},
+      {"name": "Contact Number", "size": 7074},
+      {"name": "State/Region", "size": 6714},
+      {"name": "Township", "size": 743},
+      {"name": "Village Tract", "size": 3938},
+      {"name": "Village", "size": 3812},
+      {"name": "GPS", "size": 5731},
+      {"name": "Techniques Used", "size": 7074},
+      {"name": "Crop Yield", "size": 7074}
+      ]
+    },
+    {
+     "name": "Farmer's Club",
+     "children": [
+      {"name": "State/Region", "size": 6714},
+      {"name": "Township", "size": 743},
+      {"name": "Village Tract", "size": 3938},
+      {"name": "Village", "size": 3812},
+      {"name": "GPS", "size": 5731},
+      {"name": "Number of Members", "size": 5914}
+     ]
+    },
+      {
+     "name": "Key/Contact Farmer",
+     "children": [
+      {"name": "Type", "size": 3534},
+      {"name": "State/Region", "size": 6714},
+      {"name": "Township", "size": 743},
+      {"name": "Village Tract", "size": 3938},
+      {"name": "Village", "size": 3812},
+      {"name": "GPS", "size": 5731},
+      {"name": "Farmer Name", "size": 5914},
+      {"name": "Contact Number", "size": 3416},
+      {"name": "Comment", "size": 5914}
+
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Irrigation",
+   "children": [
+    {
+     "name": "Sales",
+     "children": [
+      {"name": "Sale Date", "size": 721},
+      {"name": "Customer Name", "size": 4294},
+      {"name": "State/Region", "size": 9800},
+      {"name": "Township", "size": 1314},
+      {"name": "Village-Tract", "size": 2220},
+      {"name": "Village", "size": 2220},
+      {"name": "GPS", "size": 2220},
+      {"name": "KN new Quantity", "size": 2220},
+      {"name": "KN2 Quantity", "size": 2220},
+      {"name": "KN old Quantity", "size": 2220},
+      {"name": "KP Quantity", "size": 2220},
+      {"name": "SP Quantity", "size": 2220},
+      {"name": "PP4 Quantity", "size": 2220},
+      {"name": "HB4 Quantity", "size": 2220},
+      {"name": "PTT Quantity", "size": 2220},
+      {"name": "HW Quantity", "size": 2220},
+      {"name": "DS Quantity", "size": 2220},
+      {"name": "DS2 Quantity", "size": 2220},
+      {"name": "Total Quantity", "size": 2220},
+      {"name": "Payment Method", "size": 2220}
+     ]
+    },
+    {
+     "name": "Loans",
+     "children": [
+      {"name": "Sale Date", "size": 721},
+      {"name": "Customer Name", "size": 4294},
+      {"name": "State/Region", "size": 9800},
+      {"name": "Township", "size": 1314},
+      {"name": "Village-Tract", "size": 2220},
+      {"name": "Village", "size": 2220},
+      {"name": "GPS", "size": 2220},
+      {"name": "Loan Type", "size": 1983},
+      {"name": "Product Loan Amount", "size": 2047},
+      {"name": "Product Loan Due Date", "size": 1375},
+      {"name": "Installment Loan Amount", "size": 8746},
+      {"name": "Installment Loan Due Date", "size": 2202},
+      {"name": "Downpayment Made?", "size": 1382},
+      {"name": "Loan Status", "size": 1629},
+      {"name": "Loan Collected Date", "size": 1675}
+     ]
+    },
+    {
+     "name": "RTU",
+     "children": [
+      {"name": "Sale Date", "size": 721},
+      {"name": "Customer Name", "size": 4294},
+      {"name": "State/Region", "size": 9800},
+      {"name": "Township", "size": 1314},
+      {"name": "Village-Tract", "size": 2220},
+      {"name": "Village", "size": 2220},
+      {"name": "GPS", "size": 2220},
+      {"name": "KN new Quantity", "size": 2220},
+      {"name": "KN2 Quantity", "size": 2220},
+      {"name": "KN old Quantity", "size": 2220},
+      {"name": "KP Quantity", "size": 2220},
+      {"name": "SP Quantity", "size": 2220},
+      {"name": "PP4 Quantity", "size": 2220},
+      {"name": "HB4 Quantity", "size": 2220},
+      {"name": "PTT Quantity", "size": 2220},
+      {"name": "HW Quantity", "size": 2220},
+      {"name": "DS Quantity", "size": 2220},
+      {"name": "DS2 Quantity", "size": 2220},
+      {"name": "Total Quantity", "size": 2220},
+      {"name": "Reason for Return", "size": 1675},
+      {"name": "Serial Numbers", "size": 2042},
+      {"name": "Comments", "size": 2042}
+     ]
+    },
+    {"name": "Loan Collection", "size": 9999  },
+    {
+     "name": "Service Activity",
+     "children": [
+      {"name": "Activity Date", "size": 1983},
+      {"name": "State/Region", "size": 9800},
+      {"name": "Township", "size": 1314},
+      {"name": "Village-Tract", "size": 2220},
+      {"name": "Village", "size": 2220},
+      {"name": "GPS", "size": 2220},
+      {"name": "Activity Type", "size": 1382},
+      {"name": "Description", "size": 1629}
+     ]
+    },
+    {
+     "name": "Inventory Report",
+     "children": [
+      {"name": "Inventory Date", "size": 1983},
+      {"name": "KN new Quantity", "size": 2220},
+      {"name": "KN2 Quantity", "size": 2220},
+      {"name": "KN old Quantity", "size": 2220},
+      {"name": "KP Quantity", "size": 2220},
+      {"name": "SP Quantity", "size": 2220},
+      {"name": "PP4 Quantity", "size": 2220},
+      {"name": "HB4 Quantity", "size": 2220},
+      {"name": "PTT Quantity", "size": 2220},
+      {"name": "HW Quantity", "size": 2220},
+      {"name": "DS Quantity", "size": 2220},
+      {"name": "DS2 Quantity", "size": 2220},
+      {"name": "Total Quantity", "size": 2220}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Energy",
+   "children": [
+    {
+     "name": "Sales",
+     "children": [
+      {"name": "Sale Date", "size": 721},
+      {"name": "Customer Name", "size": 4294},
+      {"name": "State/Region", "size": 9800},
+      {"name": "Township", "size": 1314},
+      {"name": "Village-Tract", "size": 2220},
+      {"name": "Village", "size": 2220},
+      {"name": "GPS", "size": 2220},
+      {"name": "S10 Quantity", "size": 2220},
+      {"name": "S250 Quantity", "size": 2220},
+      {"name": "S1 Quantity", "size": 2220},
+      {"name": "S2 Quantity", "size": 2220},
+      {"name": "S20 Quantity", "size": 2220},
+      {"name": "S300 Quantity", "size": 2220},
+      {"name": "D20 Quantity", "size": 2220},
+      {"name": "Total Quantity", "size": 2220},
+      {"name": "Payment Method", "size": 2220}
+     ]
+    },
+   {
+     "name": "Loans",
+     "children": [
+      {"name": "Loan Date", "size": 721},
+      {"name": "Customer Name", "size": 4294},
+      {"name": "State/Region", "size": 9800},
+      {"name": "Township", "size": 1314},
+      {"name": "Village-Tract", "size": 2220},
+      {"name": "Village", "size": 2220},
+      {"name": "GPS", "size": 2220},
+      {"name": "Loan Type", "size": 2220},
+      {"name": "Loan Due Date", "size": 2220},
+      {"name": "Loan Status", "size": 2220},
+      {"name": "Loan Collected Date", "size": 2220}
+     ]
+    },
+    {
+     "name": "RTU",
+     "children": [
+      {"name": "Return Date", "size": 721},
+      {"name": "Customer Name", "size": 4294},
+      {"name": "State/Region", "size": 9800},
+      {"name": "Township", "size": 1314},
+      {"name": "Village-Tract", "size": 2220},
+      {"name": "Village", "size": 2220},
+      {"name": "GPS", "size": 2220},
+      {"name": "S10 Quantity", "size": 2220},
+      {"name": "S250 Quantity", "size": 2220},
+      {"name": "S1 Quantity", "size": 2220},
+      {"name": "S2 Quantity", "size": 2220},
+      {"name": "S20 Quantity", "size": 2220},
+      {"name": "S300 Quantity", "size": 2220},
+      {"name": "D20 Quantity", "size": 2220},
+      {"name": "Total Quantity", "size": 2220},
+      {"name": "Reason for Return", "size": 2220},
+      {"name": "Serial Numbers", "size": 2220},
+      {"name": "Comments", "size": 2220}
+     ]
+    },
+    {"name": "Loan Collection", "size": 111   },
+    {
+     "name": "Inventory Report",
+     "children": [
+      {"name": "Inventory Date", "size": 721},
+      {"name": "S10 Quantity", "size": 2220},
+      {"name": "S250 Quantity", "size": 2220},
+      {"name": "S1 Quantity", "size": 2220},
+      {"name": "S2 Quantity", "size": 2220},
+      {"name": "S20 Quantity", "size": 2220},
+      {"name": "S300 Quantity", "size": 2220},
+      {"name": "D20 Quantity", "size": 2220},
+      {"name": "Total Quantity", "size": 2220}
+     ]
+    }
+   ]
+  }
+ ]
+}
